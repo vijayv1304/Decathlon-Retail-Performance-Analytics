@@ -1,0 +1,31 @@
+store_key,store_name,city,state,region,country,store_format,floor_area_sqm
+S001,Demo Mumbai Sports Store,Mumbai,Maharashtra,West,India,Large Format,4900
+S002,Demo Pune Sports Store,Pune,Maharashtra,West,India,Standard,3800
+S003,Demo Nashik Sports Store,Nashik,Maharashtra,West,India,Standard,2600
+S004,Demo Nagpur Sports Store,Nagpur,Maharashtra,West,India,Standard,2400
+S005,Demo Ahmedabad Sports Store,Ahmedabad,Gujarat,West,India,Large Format,1900
+S006,Demo Surat Sports Store,Surat,Gujarat,West,India,Standard,3600
+S007,Demo Vadodara Sports Store,Vadodara,Gujarat,West,India,Standard,1800
+S008,Demo Panaji Sports Store,Panaji,Goa,West,India,Standard,3000
+S009,Demo Bengaluru Sports Store,Bengaluru,Karnataka,South,India,Large Format,5200
+S010,Demo Mysuru Sports Store,Mysuru,Karnataka,South,India,Standard,3200
+S011,Demo Chennai Sports Store,Chennai,Tamil Nadu,South,India,Standard,4000
+S012,Demo Coimbatore Sports Store,Coimbatore,Tamil Nadu,South,India,Standard,3400
+S013,Demo Hyderabad Sports Store,Hyderabad,Telangana,South,India,Large Format,4100
+S014,Demo Kochi Sports Store,Kochi,Kerala,South,India,Standard,4900
+S015,Demo Thiruvananthapuram Sports Store,Thiruvananthapuram,Kerala,South,India,Standard,3800
+S016,Demo Vijayawada Sports Store,Vijayawada,Andhra Pradesh,South,India,Standard,5100
+S017,Demo New Delhi Sports Store,New Delhi,Delhi,North,India,Large Format,2000
+S018,Demo Gurugram Sports Store,Gurugram,Haryana,North,India,Standard,5000
+S019,Demo Noida Sports Store,Noida,Uttar Pradesh,North,India,Standard,5100
+S020,Demo Jaipur Sports Store,Jaipur,Rajasthan,North,India,Standard,4500
+S021,Demo Chandigarh Sports Store,Chandigarh,Chandigarh,North,India,Large Format,4800
+S022,Demo Lucknow Sports Store,Lucknow,Uttar Pradesh,North,India,Standard,5200
+S023,Demo Ludhiana Sports Store,Ludhiana,Punjab,North,India,Standard,4700
+S024,Demo Dehradun Sports Store,Dehradun,Uttarakhand,North,India,Standard,2800
+S025,Demo Kolkata Sports Store,Kolkata,West Bengal,East,India,Large Format,3200
+S026,Demo Bhubaneswar Sports Store,Bhubaneswar,Odisha,East,India,Standard,3700
+S027,Demo Guwahati Sports Store,Guwahati,Assam,East,India,Standard,3500
+S028,Demo Patna Sports Store,Patna,Bihar,East,India,Standard,3900
+S029,Demo Indore Sports Store,Indore,Madhya Pradesh,Central,India,Large Format,3800
+S030,Demo Bhopal Sports Store,Bhopal,Madhya Pradesh,Central,India,Standard,3800

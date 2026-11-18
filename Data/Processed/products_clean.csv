@@ -1,0 +1,241 @@
+product_key,product_name,sport,product_type,brand_label,product_tier,colour,base_list_price_inr,base_unit_cost_inr
+P0001,Running Shoes Essential Black (Demo),Running,Running Shoes,Kalenji,Essential,Black,1599,1012
+P0002,Running Shoes Essential Blue (Demo),Running,Running Shoes,Kalenji,Essential,Blue,1799,1102
+P0003,Running Shoes Active Black (Demo),Running,Running Shoes,Kalenji,Active,Black,1999,1050
+P0004,Running Shoes Active Blue (Demo),Running,Running Shoes,Kalenji,Active,Blue,2299,1559
+P0005,Running Shoes Performance Black (Demo),Running,Running Shoes,Kalenji,Performance,Black,2799,1768
+P0006,Running Shoes Performance Blue (Demo),Running,Running Shoes,Kalenji,Performance,Blue,3399,1905
+P0007,Running T-Shirt Essential Black (Demo),Running,Running T-Shirt,Kalenji,Essential,Black,499,292
+P0008,Running T-Shirt Essential Blue (Demo),Running,Running T-Shirt,Kalenji,Essential,Blue,499,332
+P0009,Running T-Shirt Active Black (Demo),Running,Running T-Shirt,Kalenji,Active,Black,599,371
+P0010,Running T-Shirt Active Blue (Demo),Running,Running T-Shirt,Kalenji,Active,Blue,699,379
+P0011,Running T-Shirt Performance Black (Demo),Running,Running T-Shirt,Kalenji,Performance,Black,799,504
+P0012,Running T-Shirt Performance Blue (Demo),Running,Running T-Shirt,Kalenji,Performance,Blue,999,675
+P0013,Running Shorts Essential Black (Demo),Running,Running Shorts,Kalenji,Essential,Black,599,305
+P0014,Running Shorts Essential Blue (Demo),Running,Running Shorts,Kalenji,Essential,Blue,699,452
+P0015,Running Shorts Active Black (Demo),Running,Running Shorts,Kalenji,Active,Black,799,524
+P0016,Running Shorts Active Blue (Demo),Running,Running Shorts,Kalenji,Active,Blue,899,608
+P0017,Running Shorts Performance Black (Demo),Running,Running Shorts,Kalenji,Performance,Black,1099,604
+P0018,Running Shorts Performance Blue (Demo),Running,Running Shorts,Kalenji,Performance,Blue,1399,730
+P0019,Running Socks Essential Black (Demo),Running,Running Socks,Kalenji,Essential,Black,199,110
+P0020,Running Socks Essential Blue (Demo),Running,Running Socks,Kalenji,Essential,Blue,299,159
+P0021,Running Socks Active Black (Demo),Running,Running Socks,Kalenji,Active,Black,299,163
+P0022,Running Socks Active Blue (Demo),Running,Running Socks,Kalenji,Active,Blue,299,194
+P0023,Running Socks Performance Black (Demo),Running,Running Socks,Kalenji,Performance,Black,399,222
+P0024,Running Socks Performance Blue (Demo),Running,Running Socks,Kalenji,Performance,Blue,499,254
+P0025,Hiking Shoes Essential Black (Demo),Hiking,Hiking Shoes,Quechua,Essential,Black,2399,1283
+P0026,Hiking Shoes Essential Blue (Demo),Hiking,Hiking Shoes,Quechua,Essential,Blue,2699,1720
+P0027,Hiking Shoes Active Black (Demo),Hiking,Hiking Shoes,Quechua,Active,Black,2999,1811
+P0028,Hiking Shoes Active Blue (Demo),Hiking,Hiking Shoes,Quechua,Active,Blue,3399,1891
+P0029,Hiking Shoes Performance Black (Demo),Hiking,Hiking Shoes,Quechua,Performance,Black,4199,2472
+P0030,Hiking Shoes Performance Blue (Demo),Hiking,Hiking Shoes,Quechua,Performance,Blue,5099,2628
+P0031,Hiking Backpack Essential Black (Demo),Hiking,Hiking Backpack,Quechua,Essential,Black,1199,684
+P0032,Hiking Backpack Essential Blue (Demo),Hiking,Hiking Backpack,Quechua,Essential,Blue,1299,713
+P0033,Hiking Backpack Active Black (Demo),Hiking,Hiking Backpack,Quechua,Active,Black,1499,988
+P0034,Hiking Backpack Active Blue (Demo),Hiking,Hiking Backpack,Quechua,Active,Blue,1699,1000
+P0035,Hiking Backpack Performance Black (Demo),Hiking,Hiking Backpack,Quechua,Performance,Black,2099,1199
+P0036,Hiking Backpack Performance Blue (Demo),Hiking,Hiking Backpack,Quechua,Performance,Blue,2499,1372
+P0037,Rain Jacket Essential Black (Demo),Hiking,Rain Jacket,Quechua,Essential,Black,1399,836
+P0038,Rain Jacket Essential Blue (Demo),Hiking,Rain Jacket,Quechua,Essential,Blue,1599,871
+P0039,Rain Jacket Active Black (Demo),Hiking,Rain Jacket,Quechua,Active,Black,1799,936
+P0040,Rain Jacket Active Blue (Demo),Hiking,Rain Jacket,Quechua,Active,Blue,2099,1426
+P0041,Rain Jacket Performance Black (Demo),Hiking,Rain Jacket,Quechua,Performance,Black,2499,1595
+P0042,Rain Jacket Performance Blue (Demo),Hiking,Rain Jacket,Quechua,Performance,Blue,3099,2079
+P0043,Camping Tent Essential Black (Demo),Hiking,Camping Tent,Quechua,Essential,Black,4799,2858
+P0044,Camping Tent Essential Blue (Demo),Hiking,Camping Tent,Quechua,Essential,Blue,5399,3344
+P0045,Camping Tent Active Black (Demo),Hiking,Camping Tent,Quechua,Active,Black,5999,3397
+P0046,Camping Tent Active Blue (Demo),Hiking,Camping Tent,Quechua,Active,Blue,6899,3731
+P0047,Camping Tent Performance Black (Demo),Hiking,Camping Tent,Quechua,Performance,Black,8399,4901
+P0048,Camping Tent Performance Blue (Demo),Hiking,Camping Tent,Quechua,Performance,Blue,10199,6080
+P0049,Mountain Bike Essential Black (Demo),Cycling,Mountain Bike,Rockrider,Essential,Black,13599,9001
+P0050,Mountain Bike Essential Blue (Demo),Cycling,Mountain Bike,Rockrider,Essential,Blue,15299,9959
+P0051,Mountain Bike Active Black (Demo),Cycling,Mountain Bike,Rockrider,Active,Black,16999,10213
+P0052,Mountain Bike Active Blue (Demo),Cycling,Mountain Bike,Rockrider,Active,Blue,19499,10541
+P0053,Mountain Bike Performance Black (Demo),Cycling,Mountain Bike,Rockrider,Performance,Black,23799,13545
+P0054,Mountain Bike Performance Blue (Demo),Cycling,Mountain Bike,Rockrider,Performance,Blue,28899,18997
+P0055,Cycling Helmet Essential Black (Demo),Cycling,Cycling Helmet,Rockrider,Essential,Black,1199,615
+P0056,Cycling Helmet Essential Blue (Demo),Cycling,Cycling Helmet,Rockrider,Essential,Blue,1299,815
+P0057,Cycling Helmet Active Black (Demo),Cycling,Cycling Helmet,Rockrider,Active,Black,1499,804
+P0058,Cycling Helmet Active Blue (Demo),Cycling,Cycling Helmet,Rockrider,Active,Blue,1699,1155
+P0059,Cycling Helmet Performance Black (Demo),Cycling,Cycling Helmet,Rockrider,Performance,Black,2099,1359
+P0060,Cycling Helmet Performance Blue (Demo),Cycling,Cycling Helmet,Rockrider,Performance,Blue,2499,1270
+P0061,Cycling Gloves Essential Black (Demo),Cycling,Cycling Gloves,Rockrider,Essential,Black,599,321
+P0062,Cycling Gloves Essential Blue (Demo),Cycling,Cycling Gloves,Rockrider,Essential,Blue,599,403
+P0063,Cycling Gloves Active Black (Demo),Cycling,Cycling Gloves,Rockrider,Active,Black,699,468
+P0064,Cycling Gloves Active Blue (Demo),Cycling,Cycling Gloves,Rockrider,Active,Blue,799,431
+P0065,Cycling Gloves Performance Black (Demo),Cycling,Cycling Gloves,Rockrider,Performance,Black,999,547
+P0066,Cycling Gloves Performance Blue (Demo),Cycling,Cycling Gloves,Rockrider,Performance,Blue,1199,771
+P0067,Bicycle Pump Essential Black (Demo),Cycling,Bicycle Pump,Rockrider,Essential,Black,399,227
+P0068,Bicycle Pump Essential Blue (Demo),Cycling,Bicycle Pump,Rockrider,Essential,Blue,399,241
+P0069,Bicycle Pump Active Black (Demo),Cycling,Bicycle Pump,Rockrider,Active,Black,499,334
+P0070,Bicycle Pump Active Blue (Demo),Cycling,Bicycle Pump,Rockrider,Active,Blue,599,349
+P0071,Bicycle Pump Performance Black (Demo),Cycling,Bicycle Pump,Rockrider,Performance,Black,699,377
+P0072,Bicycle Pump Performance Blue (Demo),Cycling,Bicycle Pump,Rockrider,Performance,Blue,799,518
+P0073,Training T-Shirt Essential Black (Demo),Fitness,Training T-Shirt,Domyos,Essential,Black,599,376
+P0074,Training T-Shirt Essential Blue (Demo),Fitness,Training T-Shirt,Domyos,Essential,Blue,599,386
+P0075,Training T-Shirt Active Black (Demo),Fitness,Training T-Shirt,Domyos,Active,Black,699,371
+P0076,Training T-Shirt Active Blue (Demo),Fitness,Training T-Shirt,Domyos,Active,Blue,799,470
+P0077,Training T-Shirt Performance Black (Demo),Fitness,Training T-Shirt,Domyos,Performance,Black,999,528
+P0078,Training T-Shirt Performance Blue (Demo),Fitness,Training T-Shirt,Domyos,Performance,Blue,1199,631
+P0079,Training Shorts Essential Black (Demo),Fitness,Training Shorts,Domyos,Essential,Black,599,306
+P0080,Training Shorts Essential Blue (Demo),Fitness,Training Shorts,Domyos,Essential,Blue,699,394
+P0081,Training Shorts Active Black (Demo),Fitness,Training Shorts,Domyos,Active,Black,799,415
+P0082,Training Shorts Active Blue (Demo),Fitness,Training Shorts,Domyos,Active,Blue,899,585
+P0083,Training Shorts Performance Black (Demo),Fitness,Training Shorts,Domyos,Performance,Black,1099,552
+P0084,Training Shorts Performance Blue (Demo),Fitness,Training Shorts,Domyos,Performance,Blue,1399,775
+P0085,Dumbbell Set Essential Black (Demo),Fitness,Dumbbell Set,Domyos,Essential,Black,1999,1107
+P0086,Dumbbell Set Essential Blue (Demo),Fitness,Dumbbell Set,Domyos,Essential,Blue,2199,1315
+P0087,Dumbbell Set Active Black (Demo),Fitness,Dumbbell Set,Domyos,Active,Black,2499,1483
+P0088,Dumbbell Set Active Blue (Demo),Fitness,Dumbbell Set,Domyos,Active,Blue,2899,1702
+P0089,Dumbbell Set Performance Black (Demo),Fitness,Dumbbell Set,Domyos,Performance,Black,3499,2045
+P0090,Dumbbell Set Performance Blue (Demo),Fitness,Dumbbell Set,Domyos,Performance,Blue,4199,2294
+P0091,Resistance Band Essential Black (Demo),Fitness,Resistance Band,Domyos,Essential,Black,299,197
+P0092,Resistance Band Essential Blue (Demo),Fitness,Resistance Band,Domyos,Essential,Blue,399,261
+P0093,Resistance Band Active Black (Demo),Fitness,Resistance Band,Domyos,Active,Black,399,248
+P0094,Resistance Band Active Blue (Demo),Fitness,Resistance Band,Domyos,Active,Blue,499,260
+P0095,Resistance Band Performance Black (Demo),Fitness,Resistance Band,Domyos,Performance,Black,599,356
+P0096,Resistance Band Performance Blue (Demo),Fitness,Resistance Band,Domyos,Performance,Blue,699,397
+P0097,Swimming Goggles Essential Black (Demo),Swimming,Swimming Goggles,Nabaiji,Essential,Black,599,331
+P0098,Swimming Goggles Essential Blue (Demo),Swimming,Swimming Goggles,Nabaiji,Essential,Blue,599,365
+P0099,Swimming Goggles Active Black (Demo),Swimming,Swimming Goggles,Nabaiji,Active,Black,699,369
+P0100,Swimming Goggles Active Blue (Demo),Swimming,Swimming Goggles,Nabaiji,Active,Blue,799,483
+P0101,Swimming Goggles Performance Black (Demo),Swimming,Swimming Goggles,Nabaiji,Performance,Black,999,515
+P0102,Swimming Goggles Performance Blue (Demo),Swimming,Swimming Goggles,Nabaiji,Performance,Blue,1199,775
+P0103,Swimwear Essential Black (Demo),Swimming,Swimwear,Nabaiji,Essential,Black,799,531
+P0104,Swimwear Essential Blue (Demo),Swimming,Swimwear,Nabaiji,Essential,Blue,899,470
+P0105,Swimwear Active Black (Demo),Swimming,Swimwear,Nabaiji,Active,Black,999,533
+P0106,Swimwear Active Blue (Demo),Swimming,Swimwear,Nabaiji,Active,Blue,1099,664
+P0107,Swimwear Performance Black (Demo),Swimming,Swimwear,Nabaiji,Performance,Black,1399,920
+P0108,Swimwear Performance Blue (Demo),Swimming,Swimwear,Nabaiji,Performance,Blue,1699,1039
+P0109,Swimming Cap Essential Black (Demo),Swimming,Swimming Cap,Nabaiji,Essential,Black,199,133
+P0110,Swimming Cap Essential Blue (Demo),Swimming,Swimming Cap,Nabaiji,Essential,Blue,299,201
+P0111,Swimming Cap Active Black (Demo),Swimming,Swimming Cap,Nabaiji,Active,Black,299,178
+P0112,Swimming Cap Active Blue (Demo),Swimming,Swimming Cap,Nabaiji,Active,Blue,299,201
+P0113,Swimming Cap Performance Black (Demo),Swimming,Swimming Cap,Nabaiji,Performance,Black,399,200
+P0114,Swimming Cap Performance Blue (Demo),Swimming,Swimming Cap,Nabaiji,Performance,Blue,499,271
+P0115,Microfiber Towel Essential Black (Demo),Swimming,Microfiber Towel,Nabaiji,Essential,Black,499,267
+P0116,Microfiber Towel Essential Blue (Demo),Swimming,Microfiber Towel,Nabaiji,Essential,Blue,499,310
+P0117,Microfiber Towel Active Black (Demo),Swimming,Microfiber Towel,Nabaiji,Active,Black,599,405
+P0118,Microfiber Towel Active Blue (Demo),Swimming,Microfiber Towel,Nabaiji,Active,Blue,699,395
+P0119,Microfiber Towel Performance Black (Demo),Swimming,Microfiber Towel,Nabaiji,Performance,Black,799,457
+P0120,Microfiber Towel Performance Blue (Demo),Swimming,Microfiber Towel,Nabaiji,Performance,Blue,999,556
+P0121,Football Essential Black (Demo),Football,Football,Kipsta,Essential,Black,699,430
+P0122,Football Essential Blue (Demo),Football,Football,Kipsta,Essential,Blue,799,488
+P0123,Football Active Black (Demo),Football,Football,Kipsta,Active,Black,899,573
+P0124,Football Active Blue (Demo),Football,Football,Kipsta,Active,Blue,999,633
+P0125,Football Performance Black (Demo),Football,Football,Kipsta,Performance,Black,1299,772
+P0126,Football Performance Blue (Demo),Football,Football,Kipsta,Performance,Blue,1499,978
+P0127,Football Boots Essential Black (Demo),Football,Football Boots,Kipsta,Essential,Black,1599,1056
+P0128,Football Boots Essential Blue (Demo),Football,Football Boots,Kipsta,Essential,Blue,1799,1143
+P0129,Football Boots Active Black (Demo),Football,Football Boots,Kipsta,Active,Black,1999,1101
+P0130,Football Boots Active Blue (Demo),Football,Football Boots,Kipsta,Active,Blue,2299,1403
+P0131,Football Boots Performance Black (Demo),Football,Football Boots,Kipsta,Performance,Black,2799,1522
+P0132,Football Boots Performance Blue (Demo),Football,Football Boots,Kipsta,Performance,Blue,3399,2103
+P0133,Football Jersey Essential Black (Demo),Football,Football Jersey,Kipsta,Essential,Black,599,332
+P0134,Football Jersey Essential Blue (Demo),Football,Football Jersey,Kipsta,Essential,Blue,599,301
+P0135,Football Jersey Active Black (Demo),Football,Football Jersey,Kipsta,Active,Black,699,359
+P0136,Football Jersey Active Blue (Demo),Football,Football Jersey,Kipsta,Active,Blue,799,480
+P0137,Football Jersey Performance Black (Demo),Football,Football Jersey,Kipsta,Performance,Black,999,551
+P0138,Football Jersey Performance Blue (Demo),Football,Football Jersey,Kipsta,Performance,Blue,1199,633
+P0139,Shin Guards Essential Black (Demo),Football,Shin Guards,Kipsta,Essential,Black,399,264
+P0140,Shin Guards Essential Blue (Demo),Football,Shin Guards,Kipsta,Essential,Blue,399,229
+P0141,Shin Guards Active Black (Demo),Football,Shin Guards,Kipsta,Active,Black,499,328
+P0142,Shin Guards Active Blue (Demo),Football,Shin Guards,Kipsta,Active,Blue,599,339
+P0143,Shin Guards Performance Black (Demo),Football,Shin Guards,Kipsta,Performance,Black,699,352
+P0144,Shin Guards Performance Blue (Demo),Football,Shin Guards,Kipsta,Performance,Blue,799,442
+P0145,Badminton Racket Essential Black (Demo),Badminton,Badminton Racket,Perfly,Essential,Black,1199,729
+P0146,Badminton Racket Essential Blue (Demo),Badminton,Badminton Racket,Perfly,Essential,Blue,1299,823
+P0147,Badminton Racket Active Black (Demo),Badminton,Badminton Racket,Perfly,Active,Black,1499,797
+P0148,Badminton Racket Active Blue (Demo),Badminton,Badminton Racket,Perfly,Active,Blue,1699,945
+P0149,Badminton Racket Performance Black (Demo),Badminton,Badminton Racket,Perfly,Performance,Black,2099,1261
+P0150,Badminton Racket Performance Blue (Demo),Badminton,Badminton Racket,Perfly,Performance,Blue,2499,1552
+P0151,Shuttlecock Pack Essential Black (Demo),Badminton,Shuttlecock Pack,Perfly,Essential,Black,599,323
+P0152,Shuttlecock Pack Essential Blue (Demo),Badminton,Shuttlecock Pack,Perfly,Essential,Blue,599,310
+P0153,Shuttlecock Pack Active Black (Demo),Badminton,Shuttlecock Pack,Perfly,Active,Black,699,445
+P0154,Shuttlecock Pack Active Blue (Demo),Badminton,Shuttlecock Pack,Perfly,Active,Blue,799,434
+P0155,Shuttlecock Pack Performance Black (Demo),Badminton,Shuttlecock Pack,Perfly,Performance,Black,999,581
+P0156,Shuttlecock Pack Performance Blue (Demo),Badminton,Shuttlecock Pack,Perfly,Performance,Blue,1199,800
+P0157,Badminton Shoes Essential Black (Demo),Badminton,Badminton Shoes,Perfly,Essential,Black,1999,1344
+P0158,Badminton Shoes Essential Blue (Demo),Badminton,Badminton Shoes,Perfly,Essential,Blue,2199,1408
+P0159,Badminton Shoes Active Black (Demo),Badminton,Badminton Shoes,Perfly,Active,Black,2499,1278
+P0160,Badminton Shoes Active Blue (Demo),Badminton,Badminton Shoes,Perfly,Active,Blue,2899,1852
+P0161,Badminton Shoes Performance Black (Demo),Badminton,Badminton Shoes,Perfly,Performance,Black,3499,2015
+P0162,Badminton Shoes Performance Blue (Demo),Badminton,Badminton Shoes,Perfly,Performance,Blue,4199,2126
+P0163,Racket Bag Essential Black (Demo),Badminton,Racket Bag,Perfly,Essential,Black,799,504
+P0164,Racket Bag Essential Blue (Demo),Badminton,Racket Bag,Perfly,Essential,Blue,899,592
+P0165,Racket Bag Active Black (Demo),Badminton,Racket Bag,Perfly,Active,Black,999,505
+P0166,Racket Bag Active Blue (Demo),Badminton,Racket Bag,Perfly,Active,Blue,1099,664
+P0167,Racket Bag Performance Black (Demo),Badminton,Racket Bag,Perfly,Performance,Black,1399,788
+P0168,Racket Bag Performance Blue (Demo),Badminton,Racket Bag,Perfly,Performance,Blue,1699,1077
+P0169,Cricket Bat Essential Black (Demo),Cricket,Cricket Bat,Sport Practice,Essential,Black,1999,1176
+P0170,Cricket Bat Essential Blue (Demo),Cricket,Cricket Bat,Sport Practice,Essential,Blue,2199,1288
+P0171,Cricket Bat Active Black (Demo),Cricket,Cricket Bat,Sport Practice,Active,Black,2499,1466
+P0172,Cricket Bat Active Blue (Demo),Cricket,Cricket Bat,Sport Practice,Active,Blue,2899,1681
+P0173,Cricket Bat Performance Black (Demo),Cricket,Cricket Bat,Sport Practice,Performance,Black,3499,2222
+P0174,Cricket Bat Performance Blue (Demo),Cricket,Cricket Bat,Sport Practice,Performance,Blue,4199,2401
+P0175,Cricket Ball Essential Black (Demo),Cricket,Cricket Ball,Sport Practice,Essential,Black,299,199
+P0176,Cricket Ball Essential Blue (Demo),Cricket,Cricket Ball,Sport Practice,Essential,Blue,399,258
+P0177,Cricket Ball Active Black (Demo),Cricket,Cricket Ball,Sport Practice,Active,Black,399,255
+P0178,Cricket Ball Active Blue (Demo),Cricket,Cricket Ball,Sport Practice,Active,Blue,499,306
+P0179,Cricket Ball Performance Black (Demo),Cricket,Cricket Ball,Sport Practice,Performance,Black,599,357
+P0180,Cricket Ball Performance Blue (Demo),Cricket,Cricket Ball,Sport Practice,Performance,Blue,699,464
+P0181,Batting Gloves Essential Black (Demo),Cricket,Batting Gloves,Sport Practice,Essential,Black,999,554
+P0182,Batting Gloves Essential Blue (Demo),Cricket,Batting Gloves,Sport Practice,Essential,Blue,1199,742
+P0183,Batting Gloves Active Black (Demo),Cricket,Batting Gloves,Sport Practice,Active,Black,1299,714
+P0184,Batting Gloves Active Blue (Demo),Cricket,Batting Gloves,Sport Practice,Active,Blue,1499,932
+P0185,Batting Gloves Performance Black (Demo),Cricket,Batting Gloves,Sport Practice,Performance,Black,1799,978
+P0186,Batting Gloves Performance Blue (Demo),Cricket,Batting Gloves,Sport Practice,Performance,Blue,2199,1241
+P0187,Cricket Kit Bag Essential Black (Demo),Cricket,Cricket Kit Bag,Sport Practice,Essential,Black,1599,1079
+P0188,Cricket Kit Bag Essential Blue (Demo),Cricket,Cricket Kit Bag,Sport Practice,Essential,Blue,1799,1168
+P0189,Cricket Kit Bag Active Black (Demo),Cricket,Cricket Kit Bag,Sport Practice,Active,Black,1999,1304
+P0190,Cricket Kit Bag Active Blue (Demo),Cricket,Cricket Kit Bag,Sport Practice,Active,Blue,2299,1505
+P0191,Cricket Kit Bag Performance Black (Demo),Cricket,Cricket Kit Bag,Sport Practice,Performance,Black,2799,1563
+P0192,Cricket Kit Bag Performance Blue (Demo),Cricket,Cricket Kit Bag,Sport Practice,Performance,Blue,3399,1906
+P0193,Yoga Mat Essential Black (Demo),Yoga,Yoga Mat,Kimjaly,Essential,Black,799,515
+P0194,Yoga Mat Essential Blue (Demo),Yoga,Yoga Mat,Kimjaly,Essential,Blue,899,563
+P0195,Yoga Mat Active Black (Demo),Yoga,Yoga Mat,Kimjaly,Active,Black,999,534
+P0196,Yoga Mat Active Blue (Demo),Yoga,Yoga Mat,Kimjaly,Active,Blue,1099,557
+P0197,Yoga Mat Performance Black (Demo),Yoga,Yoga Mat,Kimjaly,Performance,Black,1399,915
+P0198,Yoga Mat Performance Blue (Demo),Yoga,Yoga Mat,Kimjaly,Performance,Blue,1699,1107
+P0199,Yoga Block Essential Black (Demo),Yoga,Yoga Block,Kimjaly,Essential,Black,299,158
+P0200,Yoga Block Essential Blue (Demo),Yoga,Yoga Block,Kimjaly,Essential,Blue,399,218
+P0201,Yoga Block Active Black (Demo),Yoga,Yoga Block,Kimjaly,Active,Black,399,248
+P0202,Yoga Block Active Blue (Demo),Yoga,Yoga Block,Kimjaly,Active,Blue,499,300
+P0203,Yoga Block Performance Black (Demo),Yoga,Yoga Block,Kimjaly,Performance,Black,599,398
+P0204,Yoga Block Performance Blue (Demo),Yoga,Yoga Block,Kimjaly,Performance,Blue,699,409
+P0205,Yoga Leggings Essential Black (Demo),Yoga,Yoga Leggings,Kimjaly,Essential,Black,999,500
+P0206,Yoga Leggings Essential Blue (Demo),Yoga,Yoga Leggings,Kimjaly,Essential,Blue,1199,693
+P0207,Yoga Leggings Active Black (Demo),Yoga,Yoga Leggings,Kimjaly,Active,Black,1299,860
+P0208,Yoga Leggings Active Blue (Demo),Yoga,Yoga Leggings,Kimjaly,Active,Blue,1499,847
+P0209,Yoga Leggings Performance Black (Demo),Yoga,Yoga Leggings,Kimjaly,Performance,Black,1799,1004
+P0210,Yoga Leggings Performance Blue (Demo),Yoga,Yoga Leggings,Kimjaly,Performance,Blue,2199,1401
+P0211,Yoga Strap Essential Black (Demo),Yoga,Yoga Strap,Kimjaly,Essential,Black,199,112
+P0212,Yoga Strap Essential Blue (Demo),Yoga,Yoga Strap,Kimjaly,Essential,Blue,299,195
+P0213,Yoga Strap Active Black (Demo),Yoga,Yoga Strap,Kimjaly,Active,Black,299,183
+P0214,Yoga Strap Active Blue (Demo),Yoga,Yoga Strap,Kimjaly,Active,Blue,299,168
+P0215,Yoga Strap Performance Black (Demo),Yoga,Yoga Strap,Kimjaly,Performance,Black,399,243
+P0216,Yoga Strap Performance Blue (Demo),Yoga,Yoga Strap,Kimjaly,Performance,Blue,499,326
+P0217,Tennis Racket Essential Black (Demo),Tennis,Tennis Racket,Artengo,Essential,Black,2399,1594
+P0218,Tennis Racket Essential Blue (Demo),Tennis,Tennis Racket,Artengo,Essential,Blue,2699,1490
+P0219,Tennis Racket Active Black (Demo),Tennis,Tennis Racket,Artengo,Active,Black,2999,1692
+P0220,Tennis Racket Active Blue (Demo),Tennis,Tennis Racket,Artengo,Active,Blue,3399,1742
+P0221,Tennis Racket Performance Black (Demo),Tennis,Tennis Racket,Artengo,Performance,Black,4199,2628
+P0222,Tennis Racket Performance Blue (Demo),Tennis,Tennis Racket,Artengo,Performance,Blue,5099,2883
+P0223,Tennis Ball Pack Essential Black (Demo),Tennis,Tennis Ball Pack,Artengo,Essential,Black,399,216
+P0224,Tennis Ball Pack Essential Blue (Demo),Tennis,Tennis Ball Pack,Artengo,Essential,Blue,399,257
+P0225,Tennis Ball Pack Active Black (Demo),Tennis,Tennis Ball Pack,Artengo,Active,Black,499,285
+P0226,Tennis Ball Pack Active Blue (Demo),Tennis,Tennis Ball Pack,Artengo,Active,Blue,599,300
+P0227,Tennis Ball Pack Performance Black (Demo),Tennis,Tennis Ball Pack,Artengo,Performance,Black,699,441
+P0228,Tennis Ball Pack Performance Blue (Demo),Tennis,Tennis Ball Pack,Artengo,Performance,Blue,799,487
+P0229,Tennis Shoes Essential Black (Demo),Tennis,Tennis Shoes,Artengo,Essential,Black,2399,1421
+P0230,Tennis Shoes Essential Blue (Demo),Tennis,Tennis Shoes,Artengo,Essential,Blue,2699,1826
+P0231,Tennis Shoes Active Black (Demo),Tennis,Tennis Shoes,Artengo,Active,Black,2999,1867
+P0232,Tennis Shoes Active Blue (Demo),Tennis,Tennis Shoes,Artengo,Active,Blue,3399,2078
+P0233,Tennis Shoes Performance Black (Demo),Tennis,Tennis Shoes,Artengo,Performance,Black,4199,2178
+P0234,Tennis Shoes Performance Blue (Demo),Tennis,Tennis Shoes,Artengo,Performance,Blue,5099,3038
+P0235,Tennis Grip Essential Black (Demo),Tennis,Tennis Grip,Artengo,Essential,Black,199,117
+P0236,Tennis Grip Essential Blue (Demo),Tennis,Tennis Grip,Artengo,Essential,Blue,299,175
+P0237,Tennis Grip Active Black (Demo),Tennis,Tennis Grip,Artengo,Active,Black,299,188
+P0238,Tennis Grip Active Blue (Demo),Tennis,Tennis Grip,Artengo,Active,Blue,299,158
+P0239,Tennis Grip Performance Black (Demo),Tennis,Tennis Grip,Artengo,Performance,Black,399,264
+P0240,Tennis Grip Performance Blue (Demo),Tennis,Tennis Grip,Artengo,Performance,Blue,499,274
